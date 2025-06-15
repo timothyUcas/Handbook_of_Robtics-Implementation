@@ -1,0 +1,2 @@
+# Handbook_of_Robtics-Implementation
+Springer出版的机器人学手册（第二版）的各种公式和算法的python代码复现，以帮助学习和理解。采用Robotics Toolbox for Python库
